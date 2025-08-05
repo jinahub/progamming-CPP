@@ -1,2 +1,2 @@
-# progamming-CPP
+# programming-CPP
 laboratory of CPP Progamming 
